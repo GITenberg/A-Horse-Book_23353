@@ -1,0 +1,28 @@
+_repo: A-Horse-Book_23353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tourtel, Mary
+    alias: Caldwell, Mary
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '25812'
+    url: http://www.gutenberg.org/2009/agents/25812
+description: ''
+gutenberg_issued: '2007-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- Juvenile poetry'
+- !lcsh 'Horses -- Juvenile literature'
+- !lcc 'PZ'
+title: A Horse Book
+url: http://www.gutenberg.org/ebooks/23353
